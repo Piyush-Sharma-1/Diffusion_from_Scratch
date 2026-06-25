@@ -77,5 +77,5 @@ Week4/
 
 ## Author
 
-**Diptanshu Raut**  
+**Piyush Sharma**  
 B.Tech Chemical Engineering, IIT Bombay
